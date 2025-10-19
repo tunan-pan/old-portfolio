@@ -238,11 +238,12 @@ intro text thing
 .intronote {
 	font-size: 24px;
 	margin: 400px 50px 0;
-	line-height: 150%;
-	z-index: 1000;
+	line-height: 32px;
 }
 
-
+.intronote a {
+	text-decoration: underline;
+}
 
 
 
