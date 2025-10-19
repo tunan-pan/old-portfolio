@@ -237,7 +237,7 @@ intro text thing
 
 .intronote {
 	font-size: 24px;
-	margin: 400px 50px 0;
+	margin: 200px 50px 0;
 	line-height: 32px;
 }
 
@@ -264,7 +264,7 @@ top: 0;
 	outline: 0;
   text-align: right;
   padding-right: 5vw;
-  background-color: #fff;
+  background-color: none;
   -webkit-transition-duration: 0.4s;
   -moz-transition-duration: 0.4s;
   transition-duration: 0.4s;
@@ -281,6 +281,7 @@ transition-duration: 0.4s;
 -webkit-transition-property: -webkit-transform, top;
 -moz-transition-property: -moz-transform, top;
 transition-property: transform, top;
+	background-color: #fff;
 }
 
 
