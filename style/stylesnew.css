@@ -236,8 +236,8 @@ intro text thing
 -----------------------------------*/
 
 .intronote {
-	font-size: 28px;
-	margin: 250px 50px 30px;
+	font-size: 24px;
+	margin: 400px 50px 0;
 	line-height: 100%;
 	z-index: 1000;
 }
